@@ -79,7 +79,7 @@ require (
 
 require (
 	cloud.google.com/go/containeranalysis v0.10.1
-	github.com/apparentlymart/go-versions v1.0.1
+	github.com/apparentlymart/go-versions v1.0.3
 	github.com/aws-cloudformation/rain v1.7.6-0.20240222000459-86c95e121ae9
 	github.com/awslabs/goformation/v7 v7.0.5
 )
